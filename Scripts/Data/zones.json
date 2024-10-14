@@ -1,0 +1,60 @@
+{
+    "global": {
+        "permissions": {
+            "Player": {
+                "world": [
+                    "Build",
+                    "Dismantle"
+                ],
+                "damage": [
+                    "Player",
+                    "Otomo",
+                    "BaseCampPal",
+                    "PalMonster",
+                    "WildNPC"
+                ]
+            },
+            "Otomo": {
+                "damage": [
+                    "Player",
+                    "Otomo",
+                    "BaseCampPal",
+                    "PalMonster",
+                    "WildNPC",
+                    "Structure"
+                ]
+            },
+            "BaseCampPal": {
+                "damage": [
+                    "Player",
+                    "Otomo",
+                    "BaseCampPal",
+                    "PalMonster",
+                    "WildNPC",
+                    "Structure"
+                ]
+            },
+            "PalMonster": {
+                "damage": [
+                    "Player",
+                    "Otomo",
+                    "BaseCampPal",
+                    "PalMonster",
+                    "WildNPC",
+                    "Structure"
+                ]
+            },
+            "WildNPC": {
+                "damage": [
+                    "Player",
+                    "Otomo",
+                    "BaseCampPal",
+                    "PalMonster",
+                    "WildNPC",
+                    "Structure"
+                ]
+            }
+        }
+    },
+    "zones": []
+}
